@@ -6,10 +6,9 @@
 </p>
 
 <h2>Requisitos</h2>
+<ul>NodeJS</ul>
 
-<ul> Tenha o NodeJS na sua maquina</ul>
-
-<h2>Como rodar a apulcação</h2>
+<h2>Como rodar a aplicação</h2>
 <ul>
 	No terminal, clone o projeto:
 		<ul>$ git clone https://github.com/cleiltont/ong.git</ul>
