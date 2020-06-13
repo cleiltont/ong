@@ -1,9 +1,10 @@
 # ong
+<div>
+<img width="300" aling="center" src="login.png"/>
+<img width="300" aling="center" src="profile.png"/>
+<img width="300" aling="center" src="new_incident.png"/>
+</div>
 
-<img aling="center" src="login.png"/>
-<img aling="center" src="profile.png"/>
-<img aling="center" src="new_incident.png"/>
- 
 <h2>Requisitos</h2>
 <li> Tenha o NodeJS na sua maquina</li>
 
