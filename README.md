@@ -10,18 +10,22 @@
 
 <h2>Como rodar a aplicação</h2>
 <li> No terminal, clone o projeto:</li>
-		$ git clone https://github.com/cleiltont/ong.git
+		<li>$ git clone https://github.com/cleiltont/ong.git</li>
 
 <li> Entre na pasta backend para rodar o servidor</li>
-		$ cd backend
+		<li>$ cd backend</li>
 
 <li> Instale as dependências:</li>
-		$ yarn install
+		<li>$ yarn install</li>
 
 <li> Execute a aplicação:</li>
-		$ yarn dev
+		<li>$ yarn dev</li>
 
 <li> Agora abra o terminal na pasta web e execute</li>
-		$ yarn start
+		<li>$ yarn start</li>
 
-Pronto, agora é possível acessar a aplicação a partir da rota
+<p>Pronto, agora é possível acessar a aplicação a partir da rota</p>
+
+<br/> <br/> <br/>
+
+<p aling="center">Feito :heart: com by Cleilton Timotep.</p>
