@@ -13,6 +13,17 @@ body{
 	-webkit-font-smoothing: antialiased;
 }
 
+#root{
+	transition: 500ms;
+	-webkit-touch-callout: none;  /* iPhone OS, Safari */
+  -webkit-user-select: none;    /* Chrome, Safari 3 */
+  -khtml-user-select: none;     /* Safari 2 */
+  -moz-user-select: none;       /* Firefox */
+  -ms-user-select: none;        /* IE10+ */
+  user-select: none;            /* Possível implementação no futuro */
+  /* cursor: default; */
+}
+
 input, button, textarea {
 	font: 400 18px Roboto, sans-serif;
 }
@@ -28,6 +39,17 @@ form input {
 	border: 1px solid #DCDCE6;
 	border-right: 8px;
 	padding: 0 24px;
+}
+
+form textarea {
+	width: 100%;
+	min-width: 140px;
+	color: #333;
+	resize: vertical;
+	border: 1px solid #DCDCE6;
+	border-right: 8px;
+	padding: 16px 24px;
+	line-height: 24px;
 }
 
 .button{
@@ -52,4 +74,23 @@ form input {
 
 a{
  text-decoration: none;	
+}
+
+.back-link{
+	display: flex;
+	align-items: center;
+	margin-top: 40px;
+	color: #41414d;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: 500;
+	transition: opacity 200ms;
+}
+
+.back-link svg{
+	margin-right: 8px;
+}
+
+.back-link:hover{
+	opacity: 0.8;
 }
