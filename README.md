@@ -6,6 +6,7 @@
 </p>
 
 <h2>Requisitos</h2>
+<ul>
 <li> Tenha o NodeJS na sua maquina</li>
 
 <h2>Como rodar a aplicação</h2>
@@ -25,7 +26,8 @@
 		<li>$ yarn start</li>
 
 <p>Pronto, agora é possível acessar a aplicação a partir da rota</p>
+</ul>
 
 <br/> <br/> <br/>
 
-<p aling="center">Feito :heart: com by Cleilton Timotep.</p>
+<p aling="center">Feito &nbsp; :heart: &nbsp; com by Cleilton Timotep.</p>
